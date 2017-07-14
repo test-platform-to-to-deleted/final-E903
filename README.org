@@ -1,0 +1,8 @@
+* Overview
++ This deals with eiciting how parallel and distributed processing is done
+* Simulation
++ Use the directory =src/simulation= for the simulation files.
++ Add a directory =static= in =src/simulation= for all the static files.
++ The =static= directory must have three directories =img=, =js=, =css= for the respective files.
+* NOTE
++ Please stick to the naming conventions, to build the resources without any error.
